@@ -18,6 +18,7 @@ body {
   background-color: #333;
   position: fixed;
   top: 0;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 .topnav a {
@@ -41,4 +42,9 @@ body {
 
 .centerPos{
     text-align:center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+font{
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
