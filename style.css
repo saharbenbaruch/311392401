@@ -3,6 +3,7 @@
     font-size: 50px;
     cursor: pointer;
     user-select: none;
+    font-family: "Comic Sans MS", cursive, sans-serif;
   }
   
   .fa:hover {
@@ -28,16 +29,19 @@ body {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 .topnav a:hover {
   background-color: #ddd;
   color: black;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 .centerPos{
